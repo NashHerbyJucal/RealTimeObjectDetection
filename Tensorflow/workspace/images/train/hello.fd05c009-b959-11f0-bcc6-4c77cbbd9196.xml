@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.fd05c009-b959-11f0-bcc6-4c77cbbd9196.jpg</filename>
+	<path>C:\Users\krist\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello.fd05c009-b959-11f0-bcc6-4c77cbbd9196.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>129</ymin>
+			<xmax>221</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>
